@@ -1,0 +1,1 @@
+alert("Suscribe to our weekly newsletter!");
